@@ -1,0 +1,15 @@
+# Virtual environment and dependencies
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Binary files
+*.npz
+
+# Images and Figures
+*.png
+captured Images/
+
+# Temporary files
+*.docx
